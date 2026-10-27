@@ -48,9 +48,3 @@ Implementacao de testes instrumentados de interface usando Compose UI Test para 
 
 Visualizacao Grafica e Detalhamento da Telemetria:
 Desenvolvimento de graficos interativos na tela de detalhes para exibir a curva de drenagem de bateria por hora e o historico de quadros perdidos.
-
-Comandos para salvar e mandar para o GitHub:
-Bash
-git add README.md
-git commit -m "docs: atualiza README.md completo"
-git push origin main
